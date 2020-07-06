@@ -6,15 +6,15 @@ print("안녕하세요")
 print("VS Code 테마 변경입니다.")
 
 # 기본출력
-print('hello pyhon!')
-print("hello python!!")
-print("""hello pyhon!""")
-print('''hello pyhon!''')
+print('hello python!')
+print("hello python!")
+print("""hello python!""")
+print('''hello python!''')
 
 #Separator 옵션 사용
 print('T','E','S','T',sep='')
-print('2019','02','19','T',sep='-')
-print('niceman','goole.com',sep='@')
+print('2020','07','06','T',sep='-')
+print('senshig','naver.com',sep='@')
 
 #end 옵션 사용
 print("welcome TO ",end=" ")
